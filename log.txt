@@ -1,0 +1,19 @@
+мар. 25, 2023 11:42:34 PM Seminar_2.Task1 sortArray
+INFO: Сортировка 0 элемента массива
+мар. 25, 2023 11:42:34 PM Seminar_2.Task1 sortArray
+INFO: Сортировка 1 элемента массива
+мар. 25, 2023 11:42:34 PM Seminar_2.Task1 sortArray
+INFO: Сортировка 2 элемента массива
+мар. 25, 2023 11:42:34 PM Seminar_2.Task1 sortArray
+INFO: Сортировка 3 элемента массива
+мар. 25, 2023 11:42:34 PM Seminar_2.Task1 sortArray
+INFO: Сортировка 4 элемента массива
+мар. 25, 2023 11:42:34 PM Seminar_2.Task1 sortArray
+INFO: Сортировка 5 элемента массива
+мар. 25, 2023 11:42:34 PM Seminar_2.Task1 sortArray
+INFO: Сортировка 6 элемента массива
+мар. 25, 2023 11:42:34 PM Seminar_2.Task1 sortArray
+INFO: Сортировка 7 элемента массива
+мар. 25, 2023 11:42:34 PM Seminar_2.Task1 sortArray
+INFO: Вывод отсортированных по возрастанию значений в консоль 
+
